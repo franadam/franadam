@@ -6,10 +6,10 @@
 
 <br/>
 
-I'm a full stack engineer on [GameChat](https://github.com/nik-neg/GameChat) and a graduate of Codeworks. I also have a degree on Biomedical Engineering, so I'm especially passionate about awesome projects that have direct impact on poeple lives. I mainly code in Python and JavaScript, but I am always learning. 
+I'm a full stack engineer on [GameChat](https://github.com/nik-neg/GameChat) and a graduate of Codeworks. I also have a degree in Biomedical Engineering, so I'm especially passionate about awesome projects that have direct impact on people's lives. I mainly code in Python and JavaScript, but I am always learning. 
 
 
-Outside of programming I love cooking, and travelling.
+Outside of programming I love cooking and travelling.
 
 ## What I'm doing now
 - 🔭 I’m currently working on planning the back-end for my side project [DishyGraph](https://github.com/franadam/dishyGraph), an Angular App, designed to help visualize [WHO](https://www.who.int/) infectious diseases data over time.
