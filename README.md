@@ -13,7 +13,7 @@ Outside of programming I love cooking and travelling.
 
 ## What I'm doing now
 - 🔭 I’m currently working on planning the back-end for my side project [DishyGraph](https://github.com/franadam/dishyGraph), an Angular App, designed to help visualize [WHO](https://www.who.int/) infectious diseases data over time.
-- 🌱 I’m currently learning [Gjango](https://www.djangoproject.com/) and [Tensorflow](https://www.tensorflow.org/).
+- 🌱 I’m currently learning [Django](https://www.djangoproject.com/) and [Tensorflow](https://www.tensorflow.org/).
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/francois-adam-a1b817185/)
 
