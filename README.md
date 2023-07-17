@@ -1,12 +1,12 @@
 # Hi there Muggles <img alt="harry glasses" src="./assets/harry-potter-glasses.png" height="40" />
 
-### <img alt="harry glasses"  align="left" src="./assets/harry-potter-wand.png" height="30" style="transform:rotateZ(45deg);" /> &nbsp;&nbsp;&nbsp; I am François, a Full Stack Software Engineer living in Düsseldorf.
+### <img alt="harry glasses"  align="left" src="./assets/harry-potter-wand.png" height="30" style="transform:rotateZ(45deg);" /> &nbsp;&nbsp;&nbsp; I am François, a Full Stack Software Engineer living in Liège.
 
 <img alt="harry glasses" align="right" src="./assets/harry-potter-broomstick.png" height="150" style="transform:rotateZ(45deg);"/>
 
 <br/>
 
-I'm a full stack engineer on [GameChat](https://github.com/nik-neg/GameChat) and a graduate of Codeworks. I also have a degree in Biomedical Engineering, so I'm especially passionate about awesome projects that have direct impact on people's lives. I mainly code in Python and JavaScript, but I am always learning. 
+I'm a full stack engineer graduate of Codeworks, I also have a degree in Biomedical Engineering, so I'm especially passionate about awesome projects that have direct impact on people's lives. I mainly code in Python and JavaScript, but I am always learning. 
 
 
 Outside of programming I love cooking and travelling.
