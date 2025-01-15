@@ -1,40 +1,44 @@
 # Hi there Muggles <img alt="harry glasses" src="./assets/harry-potter-glasses.png" height="40" />
 
-### <img alt="harry glasses"  align="left" src="./assets/harry-potter-wand.png" height="30" style="transform:rotateZ(45deg);" /> &nbsp;&nbsp;&nbsp; I am François, a Full Stack Software Engineer living in Liège.
 
-<img alt="harry glasses" align="right" src="./assets/harry-potter-broomstick.png" height="150" style="transform:rotateZ(45deg);"/>
+### <img alt="harry glasses" align="left" src="./assets/harry-potter-wand.png" height="30" style="transform:rotateZ(45deg);" />     I am François, an Aspiring Data Engineer based in Liège.
 
-<br/>
+<img alt="harry glasses" align="right" src="./assets/harry-potter-broomstick.png" height="150" style="transform:rotateZ(45deg);"/> <br/>
 
-I'm a full stack engineer graduate of Codeworks, I also have a degree in Biomedical Engineering, so I'm especially passionate about awesome projects that have direct impact on people's lives. I mainly code in Python and JavaScript, but I am always learning. 
+I'm transitioning from being a Full Stack Software Engineer to pursuing a career in Data Engineering. With a degree in Biomedical Engineering and certifications such as PL-300: Power BI Data Analyst Associate, I am passionate about leveraging data to create meaningful impact in biotechnology, life sciences, and beyond.
 
-
-Outside of programming I love cooking and travelling.
-
-## What I'm doing now
-- 🔭 I’m currently working on planning the back-end for my side project [DishyGraph](https://github.com/franadam/dishyGraph), an Angular App, designed to help visualize [WHO](https://www.who.int/) infectious diseases data over time.
-- 🌱 I’m currently learning [Django](https://www.djangoproject.com/) and [Tensorflow](https://www.tensorflow.org/).
+## More about me 
+Beyond programming, I enjoy traveling, building with LEGO, and solving puzzles (both digital and analog).
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/francois-adam-a1b817185/)
 
-<img alt="harry glasses" align="right" src="./assets/harry-potter-golden-snitch.png" height="70" style="display:block"/>
+## What I'm doing now
+Currently enrolled in the Data Engineering Zoomcamp by DataTalks.Club, I am diving deep into modern data engineering concepts like containerization, data warehousing, batch processing, and streaming pipelines. My technical background in Python and JavaScript, combined with my analytical skills, positions me well to tackle data-driven challenges.
 
-## My Languages and tools
+- 🔭 What I'm doing now
+- 🌱 Enrolled in the DataTalks.Club Data Engineering Zoomcamp to strengthen my skills in GCP, Docker, Terraform, and Spark.
+- 🚀 Working on a personal project: "NYC Taxi Data Analysis with Fabric and Power BI", which showcases automated ETL pipelines and advanced Power BI dashboards.
+- 📜 Studying for additional certifications, including Microsoft Azure DP-100.
+- 🛠️ Building hands-on projects that integrate cloud platforms and data engineering pipelines.
 
-<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+## Active Certifications 🎓
+- PSM I : Scrum Master
+- PL-300: Power BI Data Analyst Associate. It equipped me with skills in data visualization, modeling, and Power BI best practices.
+- DP-600 : Fabric Analytics Engineer Associate
+- DP-900 : Azure Data Fundamentals 
+
+🔖 [Upcoming] Microsoft Azure DP-100 (Data Science on Microsoft Azure).
+
+## 🌐 My Languages and Tools
+<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+<code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
+<code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" alt="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code> 
+<code><img height="40" alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"></code> 
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="40" alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-
-
-## Fun stats 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=franadam&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=franadam&langs_count=5&theme=tokyonight)]()
-
+<code><img height="40" alt="Docker" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png"></code> 
+<code><img height="40" alt="Terraform" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"></code> 
